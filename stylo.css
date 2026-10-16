@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    width: 1360px;
+    max-width: 100%;
+    min-height: 700px;
+    background-color: green;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+    height: 120px;
+    background-color: green;
+    padding: 10px;
+}
+
+.logo {
+    width: 22%;
+    height: 100px;
+    background-color: green;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.titulo {
+    width: 54%;
+    height: 100px;
+    background-color: green;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.buscador {
+    width: 21%;
+    height: 100px;
+    background-color: green;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+nav {
+    width: 100%;
+    height: 60px;
+    background-color: green;
+    padding: 10px;
+}
+
+.menu {
+    width: 19%;
+    height: 40px;
+    background-color: green;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.destacado {
+    width: 100%;
+    height: 180px;
+    background-color: green;
+    padding: 10px;
+}
+
+.grande {
+    width: 37%;
+    height: 140px;
+    background-color: green;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.tres {
+    width: 100%;
+    height: 180px;
+    background-color: green;
+    padding: 10px;
+}
+
+.card {
+    width: 31%;
+    height: 140px;
+    background-color: green;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.dos {
+    width: 100%;
+    height: 80px;
+    background-color: green;
+    padding: 10px;
+}
+
+.info {
+    width: 48%;
+    height: 50px;
+    background-color: green;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.cuatro {
+    width: 100%;
+    height: 70px;
+    background-color: green;
+    padding: 10px;
+}
+
+.mini {
+    width: 23%;
+    height: 40px;
+    background-color: green;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+footer {
+    width: 100%;
+    height: 60px;
+    background-color: green;
+    clear: both;
+    padding: 10px;
+}
